@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Parents-Suck';
+      src:  url('fonts/Parents-Suck.ttf.woff') format('woff'),
+      url('fonts/Parents-Suck.ttf.svg#Parents-Suck') format('svg'),
+      url('fonts/Parents-Suck.ttf.eot'),
+      url('fonts/Parents-Suck.eot?#iefix') format('embedded-opentype'); 
+      font-weight: normal;
+      font-style: normal;
+    }
+
+main{
+
+    background-color: #1A1A1A;
+
+}
+
+body{
+  background-color: #1A1A1A;
+}
+
+#logo a{
+    font-family: 'Parents-Suck';
+    font-size: 40px;
+}
+
+
+.navbar {
+
+    background-color: #1A1A1A;
+
+}
+
+.row{
+
+    border-bottom: white solid 1px;
+    border-width: 0.5px;
+    padding-bottom: 50px;
+    
+}
+
+.row h2 { 
+    padding: 10px;
+    font-family: 'Parents-Suck';
+    color: white;
+}
+
+.tekst2{
+    font-size: 50px;
+}
+
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+
+
+
+
+.middleimg{
+  padding: 0px;
+}
+
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+
+
+
